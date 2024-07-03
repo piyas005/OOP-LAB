@@ -62,7 +62,7 @@ public class BookClassManipulation {
             String author = scanner.nextLine();
             System.out.print("Year: ");
             int year = scanner.nextInt();
-            scanner.nextLine(); // Consume the newline character
+            scanner.nextLine(); 
             System.out.print("Genre: ");
             String genre = scanner.nextLine();
 
